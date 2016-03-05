@@ -1,0 +1,7 @@
+name 'mercury'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures mercury'
+long_description 'Installs/Configures mercury'
+version '0.1.0'

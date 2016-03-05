@@ -1,0 +1,16 @@
+name 'mercury'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures mercury'
+long_description 'Installs/Configures mercury'
+version '0.1.0'
+
+#depends 'selinux', '~> 0.9.0'i
+#depends 'firewall', '~> 2.4.0'
+#depends 'iptables', '~>2.2.0'
+depends 'httpd', '~>0.3.4'
+depends 'apache2'
+depends 'mysql2_chef_gem', '~> 1.0.2'
+depends 'mysql', '~> 6.1.2'
+depends 'database', '~> 4.0.9'
